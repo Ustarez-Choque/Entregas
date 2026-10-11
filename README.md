@@ -1,19 +1,19 @@
-Sistema Bancario con Java 
-Descripción
+#Sistema Bancario con Java 
+##Descripción
 Este proyecto consiste en el modelado de un sistema bancario orientado a objetos, cuyo objetivo es administrar los clientes y las cuentas de un banco, permitiendo realizar diferentes operaciones financieras según el tipo de cuenta. El sistema contempla distintos tipos de clientes y cuentas, aplicando los principios de la Programación Orientada a Objetos (POO), como la herencia, el encapsulamiento, el polimorfismo y la abstracción.
 Además, se incorpora un nuevo producto bancario a la Cuenta Convertibilidad, que permite operar tanto en pesos como en dólares.
 
-- Clientes
+###- Clientes
 El sistema contempla dos tipos de clientes, identificados mediante un número único de cliente.
 
-- Cliente individual
+###- Cliente individual
 Atributos:
 Número de cliente.
 Nombre.
 Apellido.
 DNI.
 
-- Cliente empresa
+###- Cliente empresa
 Atributos:
 Número de cliente.
 Nombre de fantasía.
