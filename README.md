@@ -1,28 +1,28 @@
-#Sistema Bancario con Java 
-##Descripción
+# Sistema Bancario con Java 
+## Descripción
 Este proyecto consiste en el modelado de un sistema bancario orientado a objetos, cuyo objetivo es administrar los clientes y las cuentas de un banco, permitiendo realizar diferentes operaciones financieras según el tipo de cuenta. El sistema contempla distintos tipos de clientes y cuentas, aplicando los principios de la Programación Orientada a Objetos (POO), como la herencia, el encapsulamiento, el polimorfismo y la abstracción.
 Además, se incorpora un nuevo producto bancario a la Cuenta Convertibilidad, que permite operar tanto en pesos como en dólares.
 
-###- Clientes
+### - Clientes
 El sistema contempla dos tipos de clientes, identificados mediante un número único de cliente.
 
-###- Cliente individual
+### - Cliente individual
 Atributos:
 Número de cliente.
 Nombre.
 Apellido.
 DNI.
 
-###- Cliente empresa
+### - Cliente empresa
 Atributos:
 Número de cliente.
 Nombre de fantasía.
 CUIT.
 
-Tipos de cuentas
+## Tipos de cuentas
 Todas las cuentas bancarias poseen un número de cuenta, un cliente asociado y un saldo. Cada tipo de cuenta implementa sus propias reglas de operación.
 
-1. Caja de Ahorro
+### 1. Caja de Ahorro
 Permite administrar dinero y obtener intereses mensuales.
 
 Atributos:
@@ -36,7 +36,7 @@ Depositar efectivo: permite ingresar dinero sin restricciones de monto máximo.
 Extraer efectivo: permite retirar dinero siempre que no se supere el saldo disponible.
 Cobrar intereses: permite acreditar los intereses mensuales correspondientes según la tasa establecida.
 
-2. Cuenta Corriente
+### 2. Cuenta Corriente
 Permite operar con efectivo y cheques, además de utilizar un monto autorizado para girar en descubierto.
 
 Atributos:
@@ -50,7 +50,7 @@ Depositar efectivo: permite ingresar dinero en la cuenta.
 Depositar cheques: permite depositar cheques que contienen un monto, un banco emisor y una fecha de pago.
 Extraer efectivo: permite retirar dinero utilizando el saldo disponible y, si es necesario, el límite autorizado de descubierto.
 
-3. Cuenta Convertibilidad
+### 3. Cuenta Convertibilidad
 Es un nuevo producto destinado exclusivamente a clientes empresa. Permite operar con pesos argentinos y dólares estadounidenses.
 
 Atributos:
