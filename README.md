@@ -1,5 +1,5 @@
-# README PARA MI FUTURO YO
-Así vas a usar el **README** teniendo en cuenta lo buscado en internet. Nose en donde guardar esto así que bueno, atentamente YO YO ósea YO TU 
+# UN README PARA MI FUTURO YO
+Mira así vas a usar el **README** teniendo en cuenta lo buscado en internet. Nose bien en donde guardar esto así que bueno, si sale algo nuevo lo actualizas, atentamente YO YO... ósea YO TU.
 
 
 # Titulo principal (#)
@@ -12,19 +12,19 @@ Cuantos más # agregás, más pequeño es el título.
 
 ##  Texto y formato
 **Texto**
-Negrita
+Negrita (** **)
 
-*Texto*
-Cursiva
+*Texto* 
+Cursiva (* *)
 
 ~~Texto~~
-Tachado
+Tachado (~~ ~~)
 
 ***Texto***
-Negrita y cursiva
+Negrita y cursiva (*** ***)
 
 `Texto`
-Código en línea
+Código en línea (` `)
 
 ##  Listas
 Lista desordenada:
@@ -42,13 +42,13 @@ Lista ordenada:
 Linea recta (---) (***)
 ---
 
-## Enlaces (url)
+## Enlaces (el url)
 [Google](https://www.google.com)
 
-## Imagen (ruta)
+## Imagen (la ruta)
 ![Descripción de la imagen](ruta-de-la-imagen.png)
 
-## Bloque de Codigo
+## Bloque de Codigo (```)
 ```java
 public class Vehiculo {
     private String marca;
