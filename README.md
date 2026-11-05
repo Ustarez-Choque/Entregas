@@ -4,12 +4,11 @@ Así vas a usar el **README** teniendo en cuenta lo buscado en internet. Nose en
 
 # Titulo principal (#)
 Cuantos más # agregás, más pequeño es el título.
-# Título principal
-## Subtítulo
-### Título nivel 3
-#### Título nivel 4
-##### Título nivel 5
-###### Título nivel 6
+## Subtítulo (##)
+### Título nivel 3 (###)
+#### Título nivel 4 (####)
+##### Título nivel 5 (#####)
+###### Título nivel 6 (######)
 
 ##  Texto y formato
 **Texto**
