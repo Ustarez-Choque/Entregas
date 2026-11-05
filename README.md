@@ -1,5 +1,6 @@
-# UN README PARA MI YO DEL FUTURO
-## Conceptos para aprender el uso correcto del **README** 
+# README PARA MI FUTURO YO
+Así vas a usar el **README** teniendo en cuenta lo buscado en internet. Nose en donde guardar esto así que bueno, atentamente YO YO ósea YO TU 
+
 
 # Titulo principal (#)
 Cuantos más # agregás, más pequeño es el título.
@@ -28,22 +29,19 @@ Código en línea
 
 ##  Listas
 Lista desordenada:
-
 - Java
 - Spring Boot
 - Maven
 - Lombok
 
 Lista ordenada:
-
 1. Crear el proyecto
 2. Crear las clases
 3. Ejecutar el programa
 
 ## Separadores
-Linea recta (---)
+Linea recta (---) (***)
 ---
-Otra tambien (***)
 
 ## Enlaces (url)
 [Google](https://www.google.com)
@@ -61,14 +59,14 @@ public class Vehiculo {
 ## Citas
 > Este es un texto citado.
 
-## Tablas (|TEXTO| |---|)
+## Tablas (|texto| |---|)
 | Tecnología | Descripción |
 |---|---|
 | Java | Lenguaje |
 | Maven | Gestor de dependencias |
 | Lombok | Reduce código repetitivo |
 
-## Checklist (- [])
+## Checklist (- [x])
 - [x] Crear proyecto
 - [x] Crear clases
 - [ ] Crear README
